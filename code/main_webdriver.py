@@ -6,8 +6,8 @@ import time
 import requests
 import signal
 
-username_str = "2021111341" # 你的校园网登陆用户名
-password_str = "1235173Xm!" # 你的校园网登陆密码
+username_str = "xxxx" # 你的校园网登陆用户名
+password_str = "xxxxx" # 你的校园网登陆密码
 
 can_connect = True
 
